@@ -6,3 +6,5 @@
 _site
 Gemfile.lock
 node_modules
+assets/.DS_Store
+assets/images/.DS_Store
