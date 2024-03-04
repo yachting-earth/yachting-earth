@@ -5,16 +5,46 @@ var store = [{
         "url": "/Dokument/2021-02-17-valja-ratt-bat/",
         "teaser": null
       },{
-        "title": "MOB1 Manual",
-        "excerpt":"               Testa       Varje                       Batteri       1 / månad                 Test av DSC anrop       2 / år                 Test av GPS &amp; AIS       3 / år           Manual: MOB1 Manual.pdf  ","categories": ["Segling"],
+        "title": "Lofrans Ankarspel",
+        "excerpt":"Blandad information om Lofrans Ankarspel           Lofrans’ Oil Capacities.pdf            Installation And User’s Manual X2 - X2 Alu - Project 1000.pdf      ","categories": ["Segling"],
         "tags": ["Dokument"],
-        "url": "/Manualer/mob1-manual/",
+        "url": "/Manualer/ankarspel/",
         "teaser": null
       },{
-        "title": "PLB1 Manual",
-        "excerpt":"               Testa       Varje                       Batteri       1 / månad                 GPS test       1 / år (10 gånger)           Enheten avnänder flygets nödfrekvens 121.5MHz så tester ska endast göras de första 5 minuterna var timme.   Manual: PLB1 Manual.pdf  ","categories": ["Segling"],
+        "title": "Batteri och el",
+        "excerpt":"Diverse dokument som är relaterade till el ombord           Skyllermarks Elguide.pdf            Batteri isolator whisper wbi150-3.pdf      ","categories": ["Segling"],
         "tags": ["Dokument"],
-        "url": "/Manualer/plb1-manual/",
+        "url": "/Manualer/batteri/",
+        "teaser": null
+      },{
+        "title": "Epoxy och glasfiber",
+        "excerpt":"Blandade dokument om glasfiber och epoxy   Fiberglass Boat Repair and Maintenance Manual.pdf   Handbpk Epoxy.pdf  ","categories": ["Segling"],
+        "tags": ["Dokument"],
+        "url": "/Manualer/epoxy/",
+        "teaser": null
+      },{
+        "title": "MOB1 & PLB1",
+        "excerpt":"Manualer och testschema till MOB1 och PLB1   MOB1                  Testa       Varje                       Batteri       1 / månad                 Test av DSC anrop       2 / år                 Test av GPS &amp; AIS       3 / år           Manual: MOB1 Manual.pdf   PLB1                  Testa       Varje                       Batteri       1 / månad                 GPS test       1 / år (10 gånger)           Enheten avnänder flygets nödfrekvens 121.5MHz så tester ska endast göras de första 5 minuterna var timme.   Manual: PLB1 Manual.pdf  ","categories": ["Segling"],
+        "tags": ["Dokument"],
+        "url": "/Manualer/plb1-mob1-manual/",
+        "teaser": null
+      },{
+        "title": "Raymarine",
+        "excerpt":"Blandade Raymarine dokument           Ray90 Manual.pdf            p70s p70Rs Installation drift instruktion_81365-2-SV.pdf            p70 manual.pdf            mn100 display manual.pdf            Raymarine Battery replacement.pdf            Raymarine Vindmätare Manual.pdf            Raymarine Remote Manual.pdf            Raymarine Autopilot Installation.pdf            Raymarine Autopilot Installation.pdf      ","categories": ["Segling"],
+        "tags": ["Dokument"],
+        "url": "/Manualer/raymarine/",
+        "teaser": null
+      },{
+        "title": "Segel",
+        "excerpt":"Mast, rigg och segel           Manual Gennaker Rulle.pdf            Mäta segel.pdf            Reckmann mast manual.pdf            Reckman Furling.pdf            Selden Riggdockument.pdf      ","categories": ["Segling"],
+        "tags": ["Dokument"],
+        "url": "/Manualer/segel/",
+        "teaser": null
+      },{
+        "title": "Volvo Penta",
+        "excerpt":"Blandade Volvo Penta dokument           Volvo Penta Verkstadshandbok D2-55 D2-75.pdf            Service Protocol Volvo Penta D2-75.pdf            Anslutning av varmvattenberedare D2-75.pdf            Yacht Devices.pdf            Propellertest - Yachting Monthly.pdf            Förkoppring av propeller.pdf       ","categories": ["Segling"],
+        "tags": ["Dokument"],
+        "url": "/Manualer/volvopenta/",
         "teaser": null
       },{
         "title": "Chocolate Chip Cookies",
@@ -36,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Malö Magazines",
-        "excerpt":"Tidningar och artiklar relaterade till Malö.                                                                                                                                                                                                                      M116-39-Broschyr.pdf                   M116-40-Brochure-ENG.pdf                   Malö_Magazine_2003.pdf                   Malö_Magazine_2004.pdf                   Malö_Magazine_2006.pdf                   Malö_Magazine_2008.pdf                   Malö_Magazine_2010.pdf                   Swedish_Magazine_Practical_Boat_owner_June_2009.pdf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ","categories": ["Segling"],
+        "excerpt":"Tidningar och artiklar relaterade till Malö.                                                                                                                                                                                                                      M116-39-Broschyr.pdf                   M116-40-Brochure-ENG.pdf                   Malö_Magazine_2003.pdf                   Malö_Magazine_2004.pdf                   Malö_Magazine_2006.pdf                   Malö_Magazine_2008.pdf                   Malö_Magazine_2010.pdf                   Swedish_Magazine_Practical_Boat_owner_June_2009.pdf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ","categories": ["Segling"],
         "tags": ["Dokument"],
         "url": "/Tidningar/malo/",
         "teaser": null
@@ -249,7 +279,7 @@ var store = [{
     "excerpt":" ","url": "http://yachting.earth/tags/"
   },{
     "title": "Arkiv",
-    "excerpt":"Här sparar vi diverse dokument, recept och annat som inte riktigt passar in på andra ställen.                       Dokument                                                                Välj rätt båt                          När jag letade runt på Internet efter relevant information om båtar som passar utanför kustnära vatten och vad som kan vara värt att tänka på när man väl hit...                                   Manualer                                                                MOB1 Manual                                         Testa       Varje                       Batteri       1 / månad                 Test av DSC anrop       2 / år                 Test av GPS &am...                                                           PLB1 Manual                                         Testa       Varje                       Batteri       1 / månad                 GPS test       1 / år (10 gånger)                                             Recept                                                                Chocolate Chip Cookies                          A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.                                                            Oatmeal Cookies                          Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.                                                            Peanut Butter Cookies                          A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the U...                                   Tidningar                                                                Malö Magazines                          Tidningar och artiklar relaterade till Malö.                                                                                                                                                                                                                                                                                ","url": "http://yachting.earth/arkiv/"
+    "excerpt":"Här sparar vi diverse dokument, recept och annat som inte riktigt passar in på andra ställen.                       Dokument                                                                Välj rätt båt                          När jag letade runt på Internet efter relevant information om båtar som passar utanför kustnära vatten och vad som kan vara värt att tänka på när man väl hit...                                   Manualer                                                                Lofrans Ankarspel                          Blandad information om Lofrans Ankarspel                                                            Batteri och el                          Diverse dokument som är relaterade till el ombord                                                            Epoxy och glasfiber                          Blandade dokument om glasfiber och epoxy                                                            MOB1 &amp; PLB1                          Manualer och testschema till MOB1 och PLB1                                                            Raymarine                          Blandade Raymarine dokument                                                            Segel                          Mast, rigg och segel                                                            Volvo Penta                          Blandade Volvo Penta dokument                                    Recept                                                                Chocolate Chip Cookies                          A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.                                                            Oatmeal Cookies                          Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.                                                            Peanut Butter Cookies                          A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the U...                                   Tidningar                                                                Malö Magazines                          Tidningar och artiklar relaterade till Malö.                                                                                                                                                                                                                                                                               ","url": "http://yachting.earth/arkiv/"
   },{
     "title": "Bilder",
     "excerpt":"Med tanke på att vi reser runt en hel del och mer eller mindre alltid har vår kamera med oss ligger det nära tillhands att vi tar en del bilder. Ibland landar de på Instagram och ibland i ett och annat bloginlägg här på sidan om det är något som är kul nog att skriva lite mer om.   Allt det där andra vi plåtar brukar vi lägga på vårt Polarsteps konto som är en variant av fotobok/blog som håller reda på vart vi höll hus när bilden togs och massa annat som är kul att komma ihåg. (Nej jag får inte ett öre för att jag skiver det här, jag gillar helt enkelt tjänsten)   Vårt Polarsteps konto hittar du här –&gt; Yachting Polarsteps och om du vill ha stenkoll på vad som händer på vårt konto laddar du bara ner appen och letar upp oss där.   Här ser du vad vi hittade på under sommaren 2023.    ","url": "http://yachting.earth/bilder/"
