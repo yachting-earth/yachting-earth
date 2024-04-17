@@ -339,7 +339,7 @@ var store = [{
     "excerpt":"När vi träffar riktigt bra eller riktigt dåliga företag eller leverantörer får de en plats på den här sidan. Det är våra högst personliga tankar och åsikter som speglas nedan så ta det för vad det är.  | Företag/Tjänst | Betyg (1-5)| Kommentar | |:---------------:|:------:|:----------| | Betalkort - Revolut | 5 | Fenomenal lösning som ger bra växelkurser för oss på språng.|    | Marinor | Betyg (1-5)| Kommentar | |:---------------:|:------:|:----------| | Marina di Ragusa | 4 | Säker och trygg marina med hjälpsam personal, det som drar ner betyget ärsophanteringen alá södra Italien och något eftersatta duschrum/toaletter. | | Rocella | 2 | Marinan verkar helt ok att ligga i men det är långt till byn och de vägrar svarapå epost vilket är galet irriterande.","url": "https://yachting.earth/ris-och-ros/"
   },{
     "title": "Sailserver",
-    "excerpt":"Här hittar du informationen vi valt att dela från systemen ombord.  ","url": "https://yachting.earth/sailserver/"
+    "excerpt":"# Sailserver  Nedan hittar du all information vår Sailserver registrerar ombord. När vi ankrat och inte är ombord håller den ett öga på, och meddelar oss via både SMS och larm, om ankaret inte sitter som det ska, om vinden plötsligt ökar eller ändrar riktning. När vi seglar så registrerar den bland annat rutten, fart, krängning, vindhastighet och riktnign och mycket annat. ","url": "https://yachting.earth/sailserver/"
   },{
     "title": "Sök",
     "excerpt":"","url": "https://yachting.earth/search/"
