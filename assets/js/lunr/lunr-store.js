@@ -287,6 +287,9 @@ var store = [{
     "title": "Sidan kunde inte hittas",
     "excerpt":"Sidan du försöker hitta finns inte eller så har vi helt enkelt slarvat bort den.  ","url": "https://yachting.earth/404.html"
   },{
+    "title": "Address",
+    "excerpt":"Our address   Tony Johansson Konsultgatan 26 21669 Malmö Sweden   Maria Pia Larsson Konsultgatan 26 21669 Malmö Sweden  ","url": "https://yachting.earth/address/"
+  },{
     "title": "Karta",
     "excerpt":"Här är vi, eller rättare sagt här är Freya.   Vår båt är utrustad med AIS (Automatic Identification System) och med en Sailserver som gör det möjligt att följa med oss ut till havs utan att lämna soffan för den som vill. För att komma till vår Sailserver som visa en massa intressanta saker är det bara till att klicka här –&gt; Sailserver   Den plats som visas på kartan nedan är från när en AIS-mottagare på land fångar upp när vår position. Om det inte finns några mottagare i närheten kommer kartan istället att visa vår senast kända position. På tal om kartan nedan, det vita är vatten och det grå är land…   Vi har märkt att spårningstjänsten ibland inte filtrerar bort vår båt, så om du ser massor av punkter på kartan kan du söka efter båten med namnet “Freya”. Se till att det står (SE) efter namnet för att följa oss. Du kan också knacka in vårt MMSI 265022990 (som är vår VHF’s “telefonnummer”) med din favorittracker, till exempel. Vesselfinder.       ","url": "https://yachting.earth/ais/"
   },{
