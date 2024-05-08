@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2024-05-08T21:32:03+02:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">Skutt till Siracusa</title><link href="https://yachting.earth/2024/04/25/Siracusa.html" rel="alternate" type="text/html" title="Skutt till Siracusa" /><published>2024-04-25T00:00:00+02:00</published><updated>2024-04-25T00:00:00+02:00</updated><id>https://yachting.earth/2024/04/25/Siracusa</id><content type="html" xml:base="https://yachting.earth/2024/04/25/Siracusa.html"><![CDATA[<div id="leaflet-map-7ce8f8641199a0d208938daf08fd752f" class="leaflet-map"></div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2024-05-08T22:20:26+02:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">Skutt till Siracusa</title><link href="https://yachting.earth/2024/04/25/Siracusa.html" rel="alternate" type="text/html" title="Skutt till Siracusa" /><published>2024-04-25T00:00:00+02:00</published><updated>2024-04-25T00:00:00+02:00</updated><id>https://yachting.earth/2024/04/25/Siracusa</id><content type="html" xml:base="https://yachting.earth/2024/04/25/Siracusa.html"><![CDATA[<div id="leaflet-map-c46a5c2e01db9ee682ccd9ae31c4565f" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -10,7 +10,7 @@
                   } ;
     var blockLeafletItems = [
 
-{id: "f7b090228ed9bd1c24ec8567a2f32405",
+{id: "2d0ebd03622857d55fd62cede98f3eef",
               type: "LeafletMarker",
               value: { "latitude" : 39.080957,
                        "longitude" : 17.136717,
@@ -18,7 +18,7 @@
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-7ce8f8641199a0d208938daf08fd752f";
+    var defaultMapElId = "leaflet-map-c46a5c2e01db9ee682ccd9ae31c4565f";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -151,7 +151,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 7ce8f8641199a0d208938daf08fd752f with these args:");
+        console.log("Creating map c46a5c2e01db9ee682ccd9ae31c4565f with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
