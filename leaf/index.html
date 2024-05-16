@@ -176,66 +176,75 @@
     <section class="page__content" itemprop="text">
       <p>Test av leaflet map</p>
 
-<div id="leaflet-map-5dd8a905043bab7a230599cbe8c99430" class="leaflet-map"></div>
+<div id="leaflet-map-cd6012edaeb1c1910c549964c13948c3" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
     var esriLeafletCdn = "https://unpkg.com/esri-leaflet/dist/";
 
     // Get tag input arguments & inside block object list
-    var tagInputArg = {"zoom" : 3,
+    var tagInputArg = {"zoom" : 5,
                 "center" : [39.080957, 17.136717],
                 "providerBasemap": "OpenStreetMap.HOT"} ;
     var blockLeafletItems = [
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-            {id: "337ba669a86d037a3f3c7894596b8109",
+            {id: "5f50dd4e41733edf509b82c7382835b3",
               type: "LeafletGeoJSON",
-              value: { "type": "Feature", "properties": {"popupContent": "Övernattning i marina", "href": "https://maps.app.goo.gl/bb9ri9j3Eq1hDfwm9"}, "geometry": { "type": "Point", "coordinates": [5.136717, 47.080957] } } },
+              value: { "type": "Feature", "properties": {"popupContent": "Dubrovnik", "href": "/2024-05-15-Dubrovnik.html"}, "geometry": { "type": "Point", "coordinates": [18.084690725608457, 42.65926801182059] } } },
         
     
-            {id: "a12eec7a619f7efb11e0a6c5ec95dd96",
+            {id: "d9d4ac5ae961da78daad93199c80eba4",
               type: "LeafletGeoJSON",
-              value: { "type": "Feature", "properties": {"popupContent": "Övernattning i marina", "href": "https://maps.app.goo.gl/bb9ri9j3Eq1hDfwm9"}, "geometry": { "type": "Point", "coordinates": [17.136717, 39.080957] } } },
+              value: { "type": "Feature", "properties": {"popupContent": "Otrando", "href": "/2024-05-13-Otrando.html"}, "geometry": { "type": "Point", "coordinates": [18.488625159053655, 40.14915747753641] } } },
         
+    
+            {id: "f6bbe9eda24d64c5b48ede15e9e35669",
+              type: "LeafletGeoJSON",
+              value: { "type": "Feature", "properties": {"popupContent": "Santa Maria Di Leuca", "href": "/2024-05-10-Leuca.html"}, "geometry": { "type": "Point", "coordinates": [18.360400120556733, 39.794967917009274] } } },
+        
+    
+            {id: "1e385a4ef5fdcf1bbe43416edc4f917d",
+              type: "LeafletGeoJSON",
+              value: { "type": "Feature", "properties": {"popupContent": "Crotone", "href": "/2024-05-10-Leuca.html"}, "geometry": { "type": "Point", "coordinates": [17.13391310107254, 39.07745918535129] } } },
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-5dd8a905043bab7a230599cbe8c99430";
+    var defaultMapElId = "leaflet-map-cd6012edaeb1c1910c549964c13948c3";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -368,7 +377,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 5dd8a905043bab7a230599cbe8c99430 with these args:");
+        console.log("Creating map cd6012edaeb1c1910c549964c13948c3 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
