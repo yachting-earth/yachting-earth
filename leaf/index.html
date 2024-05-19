@@ -176,7 +176,7 @@
     <section class="page__content" itemprop="text">
       <p>Test av leaflet map</p>
 
-<div id="leaflet-map-07eb51168826c856d9f63efa1215ac50" class="leaflet-map"></div>
+<div id="leaflet-map-012dcf6af0d17ea20302400cca661d6f" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -187,32 +187,37 @@
                 "center" : [39.080957, 17.136717],
                 "providerBasemap": "OpenStreetMap.HOT"} ;
     var blockLeafletItems = [
-            {id: "2b7a710a6d53437079e359d0c0d130a3",
+            {id: "08ea19b7ac37e1ac1688e5fb34d7e8f9",
+              type: "LeafletGeoJSON",
+              value: { "type": "Feature", "properties": {"popupContent": "Slano", "href": "../../../2024/05/18/Slano.html"}, "geometry": { "type": "Point", "coordinates": [17.8873552, 42.7871156] } } },
+        
+    
+            {id: "0df217b9b62e3e6406cce8508a39afd9",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "Dubrovnik", "href": "../../../2024/05/15/Dubrovnik.html"}, "geometry": { "type": "Point", "coordinates": [18.084690725608457, 42.65926801182059] } } },
         
     
-            {id: "dbad2ea9f40ff5ccb64812d709b89bcc",
+            {id: "e3c6c670af8cbf64b319b48a13e5eb5f",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "Otranto", "href": "../../../2024/05/13/Otranto.html"}, "geometry": { "type": "Point", "coordinates": [18.488625159053655, 40.14915747753641] } } },
         
     
-            {id: "1406c14813c5ce767e318ffc0ff00bb2",
+            {id: "724b8b805506c054022ad72eb03bad83",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "Santa Maria Di Leuca", "href": "../../../2024/05/10/Leuca.html"}, "geometry": { "type": "Point", "coordinates": [18.360400120556733, 39.794967917009274] } } },
         
     
-            {id: "5f97a1761e1ed73acd8888907b4d425d",
+            {id: "d791537548a51e65b987b1463742bb4b",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "Leuca", "href": "../../../2024/05/10/Leuca.html"}, "geometry": { "type": "Point", "coordinates": [17.13391310107254, 39.07745918535129] } } },
         
     
-            {id: "13a41650fdab7498e97c97994325f16a",
+            {id: "3fcb123bbfbba8724eabd8b39d3511fb",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "Siracusa", "href": "../../../2024/04/25/Siracusa.html"}, "geometry": { "type": "Point", "coordinates": [15.279478431908602, 37.05613029306577] } } },
         
     
-            {id: "59081817be5a8ba6b51672b77a9d2076",
+            {id: "7fa8147b3fc46ad20b98d7639c882477",
               type: "LeafletGeoJSON",
               value: { "type": "Feature", "properties": {"popupContent": "En bra start", "href": "../../../2024/04/25/En-bra-start.html"}, "geometry": { "type": "Point", "coordinates": [15.142664162425467, 36.686565721908856] } } },
         
@@ -252,7 +257,7 @@
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-07eb51168826c856d9f63efa1215ac50";
+    var defaultMapElId = "leaflet-map-012dcf6af0d17ea20302400cca661d6f";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -385,7 +390,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 07eb51168826c856d9f63efa1215ac50 with these args:");
+        console.log("Creating map 012dcf6af0d17ea20302400cca661d6f with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
