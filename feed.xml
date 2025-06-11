@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2025-06-10T23:53:39+03:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">Lite om våra batterier och dess inställningar</title><link href="https://yachting.earth/2025/06/10/batteri.html" rel="alternate" type="text/html" title="Lite om våra batterier och dess inställningar" /><published>2025-06-10T00:00:00+03:00</published><updated>2025-06-10T00:00:00+03:00</updated><id>https://yachting.earth/2025/06/10/batteri</id><content type="html" xml:base="https://yachting.earth/2025/06/10/batteri.html"><![CDATA[<p>På sidan om Freya (<a href="https://yachting.earth/freya/">länk</a>) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2025-06-11T19:25:32+03:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">Huston we got a proplem</title><link href="https://yachting.earth/2025/06/11/proplem.html" rel="alternate" type="text/html" title="Huston we got a proplem" /><published>2025-06-11T00:00:00+03:00</published><updated>2025-06-11T00:00:00+03:00</updated><id>https://yachting.earth/2025/06/11/proplem</id><content type="html" xml:base="https://yachting.earth/2025/06/11/proplem.html"><![CDATA[<p>Sedan vi köpte Freya har vi haft ett litet problem mellan kölen och vårt roder nämligen vår propeller. Propellern i sig är det iofs inget fel på då den i princip är helt ny då den levererades med motorn men dimensioneringen av den är lite galen då den är lite för liten för motorn och båten.</p>
+
+<p>Det hela började med båtens tidigare ägare som vänligt nog beslutade sig för att byta motor strax innan båten skulle säljas, valet stod mellan en vanlig sugmotor utan turbo på 55hk (en Volvo Penta D2-55) och en med turbo på 75hk. Då prisskillnaden med installation var obefintlig valdes den stora motorn på 75hk då tanken var att ju fler hästar desto bättre (lite som med fordon på land). Hur god tanken än må ha varit så föll den lite på eget grepp då ingen tänkte på att räkna på vilken motor och –&gt; <strong>propeller</strong> &lt;– som faktiskt är bäst lämpad för Freya (som är en segelbåt på 12 meter och 10 ton som är har en 9,5 meter lång vattenlinje) som primärt är avsedd för långfärd med allt vad det betyder.</p>
+
+<p>Nu handlar det här inlägget inte om motorn i sig men några ord om mina högst personliga tankar passar jag ändå på att flika in, det är ju ändå “min” sida och bakgrunden skadar inte att ha med sig lite längre ner i texten. Som jag ser det behöver en långfärdsbåt en motor som kan användas till att ladda batterier, värma vatten, ta sig in och ut ur marinor och som drar så lite diesel som möjligt per timme och gärna kan gå på låga varv utan att må dåligt. Det matchar utomordentligt dåligt med en turbomotor som tycker om att gå på höga varv och med hyfsat motstånd för att må bra.</p>
+
+<p>På tal om motstånd, det är nu vi börjar närma oss kärnan av problemet. Motståndet som en båtmotor upplever skapas av hur stor propeller den driver. En stor propeller skapar ett större motsånd än en mindre propeller och storleken på en propeller är beroende på:</p>
+
+<p>1: Hur lång vattenlinjen är.
+2: Motorns effekt, både vridmoment och hästkrafter.
+3: Motorns maxvarv.
+4: Eventuell utväxlingen mellan motor och propeller.</p>
+
+<p>Ovanstående fyra punkter ger med lite mattematik en teoretisk maxfart och marchfart</p>
+
+<p>När motorn köptes levererade Volvo D2-75 motorn med en 17x13 tums propeller (de har nu gått upp till 18x13 tum) som det största alternativ på fasta trebladiga propellrar. För att hoppa lite i förväg så kräver Freya med den här motorn en proeller som är 20x13 tum dvs en som är i runda slängar 7.5cm större än orginal och då har jag inte ens räknat på hur stor skillnaden är på bladytan på propellern som levererades med motorn och ytan som faktiskt är lämpligt.</p>
+
+<p>I vilket fall, om någon (företaget som sålde motorn) bemödat sig med att lägga i alla fall 5 minuter på att räkna på båt och motor åt kunden innan försäljningen hade de snart upptäckt att montera en Volvo Penta D2-75 med standardpropellern som Volvo skickar med inte bara skulle vara dyrare för kunden i inköp men också dåligt för både propeller och själva motorn.</p>
+
+<p>Det som händer när en diesel går för lätt pga motståndet som skapas av liten propeller är kalla avgaser och dåligt laddtryck (om turbo) som resultat, båda skapar problem för ägaren både på kort och lång sikt med koks i avgaskröken och fallerande turbo som resultat. Den lilla propellern “slirar” mer med förlorad kraft och kommer även kavitera i onödan vilket förkortar livslängden på propellern. Nu är det kanske så att varven som monterar prylarna gnuggar händerna bakom ryggen på kunden då de i många fall får en beställning på en turborenovering från kunden lite längre fram vilket i sin tur betyder att de kan skicka en ganska saftig faktura på jobb och kanske en ny turbo. Brilliant affärsplan även om den ligger i samma kategori som telemarketingbolag eller indiska bitcoin scammers.</p>
+
+<p>Tillbaks till propellern, vi har som sagt räknat lite på vilken propeller som skulle vara lämplig och landat i att en trebladig 20x13 tums propeller skulle vara perfekt för Freya och hennes motor. Såhär kom vi fram till det.</p>
+
+<p><img src="beräkning.jpg" alt="" /></p>
+
+<h3 id="vi-börjar-med-att-räkna-ut-vilken-pitch-vår-propeller-behöver">Vi börjar med att räkna ut vilken pitch vår propeller behöver</h3>
+
+<p>Först räknar vi om vattenlinjen från meter till fot.</p>
+
+\[Vattenlinje = 9.4 m \cdot 3.25 = 30.83 fot\]
+
+<p>Med hjälp av vattenlinjen i fot kan vi sedan beräkna båtens teoretiska skrovfart genom att dra roten ur vattenlinjen i fot och sedan multiplicera med 1.34.</p>
+
+\[Skrovfart = \sqrt{30.83} \cdot 1.34 = 7.44 knop\]
+
+<p>Föredrar du att räkna med meter istället för fot använder du istället</p>
+
+\[Skrovfart = \sqrt{9.4} \cdot 2.427 = 7.44 knop\]
+
+<blockquote>
+  <p>Skrovfarten kallas även deplacementshastighet, det är den fart där en båtens bogvågsvåglängd (är det ens ett ord) är lika lång som båtens längd i vattenlinjen. Överskrider båten den hastigheten (utan att plana) blir båtens effektivitet mycket lägre då den börjar färdas uppför vågen som den själv skapar.</p>
+</blockquote>
+
+<p>Nu när vi har full koll på vår skrovfart kan vi beräkna hur många fot vi kommer i den farten under en minut genom att multiplicera farten i knop med 101.3.</p>
+
+\[Distans/min = 7.77 \cdot 101.3 = 753.67 fot/min\]
+
+<blockquote>
+  <p>För dig som funderar på varför vi krånglar till det med fötter istället för meter så beror det på att propellrar hänger ihop med båtar och där räknas saker och ting i knop, fot, inches och distansminuter mm, det hänger inte på något sätt ihop med att hela den maritima världen tycker att USA använder rätt måttsystem.</p>
+</blockquote>
+
+<p>Nu vet vi hur snabb båten kan vara så nästa steg är att räkna ut hur snabbt vår propeller kan snurra när den snurrar som snabbast. Det gör vi genom att titta på motorns maxvarv och växellådan mellan motorn och propellern. I vårt fall som har en Volvo Penta D2-75’a är maxvarvet 2700-3000rpm och mellan motor och propeller har vi ett 150S segeldrev med utväxlingen 2.19:1. Det betyder att när motorn snurrar 2.19 varv så snurrar vår propeller 1 varv.</p>
+
+\[3000/2.19 = 1369 varv/minut\]
+
+<p>Vid 3000rpm ger det 1369 varv per minut. Då vi har en växellåda, en drös med kugghjul och annat i motorn som bromsar lite väljer vi att räkna på 90% effekt istället för 100% så för att komma lite närmre en sanning drar vi av 10%</p>
+
+\[1369 * 0.9 = 1232 varv/min\]
+
+<p>Nu när vi räknat ut hur många varv propellern teoretiskt kan snurra var minut går vi raskt vidare till att räkna ut vilken lutning (pitch) propellerbladen ska ha. Om vi ser propellern som en korkskruv som skruvas in i en kork (vad annars används en korkskruv till?) så slirar den inte utan ett varv skruvar in skruven en viss sträcka. För att räkna ut vilken pitch propellerns blad ska ha för att båten ska färdas 753.67 fot/minut vid 1232 varv/minut tar vi helt enkelt och delar stäckan med varvtalet och multiplicerar det hela med 12 för att få hur många tum propellerns pitch behöver.</p>
+
+\[Sträcka/Varv = 753.67/1232*12 = 7.33 tum\]
+
+<p>Du som läste noga tidigare kommer självklart ihåg att propellern vi behöver har en pitch på 13 tum, det kommer från att vattnet tyvärr (eller tack och lov för de som dyker från höga höjder) inte har samma dencitet som kork vilket gör att propellern slirar i vattnet precis som en bil har lätt att göra på grus när man gasar på lite för mycket.
+Det gör att vi behöver räkna på något som inom propellerspråk kallas för slippage eller kort och kort för slip. Det kan såklart göras hur avancerat som helst men här håller vi det till uppskattade värden och för propellrar med tre blad kan man räkna med 40-45% slip vilket ger en propellereffekt på 55-60%. Vi knuffar undan vår OCD och väljer ett medelvärde på 57.5% för att kunna räkna vidare och få fram vår pitch med slip.</p>
+
+\[7.33 / 0.575 = 12,75 tum\]
+
+<p>Då det inte dräller av propellrar med en pitch på 12,75 tum tar vi oss friheten att avrunda upp till 13 tum.</p>
+
+<h3 id="jey-vi-har-nu-kommit-halvvägs">Jey! Vi har nu kommit halvvägs…</h3>
+
+<p>Nästa steg är att lista ut hur stor vår propeller ska vara, storleken har betydelse oavsett vad de säger på varvet. Storleken har två parametrar, diameter och bladyta.</p>
+
+<p>För att beräkna vilken diameter en propeller kan ha behöver vi veta lite hur båten ser ut under. Det vi söker är avståndet mellan vår propelleraxel och skrovet för att kunna räkna ut vår propellers maximala storlek. Nu är det inte så enkelt att bara se till att den får plats utan att skava hål i skrovet. Det vi måste komma ihåg är att när en propeller snurrar skapar den massa virvlar när den knuffar vatten bakåt och båten framåt (Newtons tredje lag som kort och gott säger för varje kraft finns en lika stor men motriktad kraft.)</p>
+
+<p>För att kraften ska bli så “ren” som möjligt behöver vi ha ett litet avstånd mellan propellern och skrovet (markeringen i orange på bilden nedan), enligt massor av tester är konsensus att det ska vara minst 10-15% fritt i vårt fall har vi nästan 30% med en 20 tums propeller.</p>
+
+<p><img src="skrov.png" alt="" /></p>
+
+<p>I vårt fall rör det sig om 32cm mellan axel och skrov så vi har inga som helst problem oavsett vilken propeller vi monterar (med måtta såklart).</p>
+
+<p>Nu när vi vet att vi kan montera vilken propeller som helst kan vi räkna ut hur stor den faktiskt kan vara och för att göra det behöver vi veta hur många hästkrafter motorn kan leverera till propellern. På fikonspråk är det något som kallas Shaft Horse Power (SHP), det är något man hittar i dokumentationen som finns för motorn, i vårt fall är det 72hk men för att vara lite konservativa räknar vi på 65hk istället.</p>
+
+<p>Propellerns diamter beräknas enligt följande formel</p>
+
+\[D = 632.7*SHP^{0.2} / RPM^{0.6}\]
+
+<p>Vilket i vårt fall ger</p>
+
+\[D = 632.7*65^{0.2} / 1232^{0.6} = 20.7 tum\]
+
+<p>Sist men inte minst behöver vi räkna ut bladytan, dvs hur stor yta propellern har att jobba med för att driva vattnet. Lite som att man skaffar bredare däck för att bilen ska få bättre grepp mot asfalten.</p>
+
+<p>Bladytans beräkning är lite knepigare.</p>
+
+\[Bladyta = 100 * SHP / Skrovfart * \sqrt{Skrovfart}\]
+
+<p>Vilket för oss betyder</p>
+
+\[Bladyta = 100 * 65 / 7.44 * \sqrt{7.44} = 320 tum^2\]
+
+<p>Nu är det ju inte så att man bara kan knacka på hos en propellertillverkare och säga “Hej, jag vill ha en 20 tums propeller och den ska ha en bladyta på 320tum.”. Eller jo det kan man kanske men det betyder med största säkerhet att den kommer kosta skjortan då de behöver specialtillverka propellern. Vad man istället kan göra är att fundera på om det är en 2, 3 eller 4-bladig propeller som ska köpas.</p>
+
+<p>I stora drag handlar det om hur man ska använda sin båt och därefter är det en gigantisk kompromiss. I princip kan man säga att en propeller med 3 blad har bra balans, små vibrationer och ger maximal toppfart (bra vid transport) medans en propeller med 4’a blad ger betydligt bättre grunddrag på låga varvtal (bra vid manöverering i trånga marinor) men med något mindre toppfart.</p>
+
+<p>I vårt fall som inte har som hobby att manöverera i marinor var valet enkelt, vi siktar in oss på en 3-bladig propeller. Att den 4-bladiga skulle kosta nästan 20000kr har inte alls med saken att göra, inte det minsta.</p>
+
+<h3 id="slutsats">Slutsats</h3>
+
+<p>Efter mycket räknande och ytterligare lite justerande av sifforna gällande varvtal och effekt kom vi fram till att en 3-bladig propelle med en diameter på 20 tum och en stigning på 13 tum skulle vara optimalt för hur vi använder båten och motorn. Efter det behövde vi bara lista ut vilken tillverkare som i dagsläget och enligt oss levererar det bästa alternativet av propeller som matchar våra kriterier.</p>
+
+<p>Efter lite letande hittade vi ett propellertest gjort av Yachting Monthly i maj 2009. Under testet frågade de ett gäng propellertillverkare vilken propeller de rekommenderade till deras testbåt, efter det testades var och en av propellrarna med nedanstående resultat.</p>
+
+<p><img src="hastighet_propwalk.jpeg" alt="" />
+<img src="drag_stop.jpeg" alt="" /></p>
+
+<p>Som nämndes ovan så var vi ute efter maximal fart för att kunna förflytta oss längre sträckor per tidsenhet när det är dåligt med vind. Anledningen till att jag skriver “längre sträckor per tidsenhet” beror på att en båtmotor mäter hur många timmar den är igång och inte hur långt den färdats. Det betyder att en propeller som gör att båten färdas i 4 knop behöver gå dubbelt så lång tid som en propeller som gör att båten färdas i 8 knop.
+Med det i ryggen så seglar en 3-bladig Flexofold upp överts på listan. Att Flexofold 3B är propellern som genererade mest kraft bland deltagarna ser vi som något positivt, det är kanske inte så konstigt att fart och kraft hänger ihop.</p>
+
+<p>Kraft bakåt och med det även stoppsträckan är inte så imponerande för Flexofold när den jämförs med en vanlig standardpropeller men om vi tar i beräkning att vår “standardpropeller” är mellan 3 och 4 tum för liten så anar jag att Flexofold slår vår nuvarande propeller på fingrarna även där.</p>
+
+<p>Sist men inte minst, propwalk! Propwalk är hur mycket propellern drar i sidled när båten backar. Som alltid finns det två sidor på alla mynt och det gäller även här. Propwalk är skräp när man ska backa båten mot en brygga eller i andra trånga utrymmen då den gör att båten inte alls går dit det är tänkt utan i sidled. Meeeen å andra sidan är propwalk toppen när man ska lägga till längsmed mot en brygga och kommer in mot bryggan i en vinkel, in med stäven och lägg i backen och låt propellern knuffa in aktern mot bryggan innan båten börjar gå bakåt.</p>
+
+<p>I fallet med Flexofold 3B så är prowalk bättre när vi backar och sämre vid tilläggning. Det betyder att Freya med semilång köl kommer bli liiiite bättre på att backa (vilket är bra) men lite sämre vid tilläggning långsides. Det är en kompromiss vi är villiga att ta.</p>
+
+<blockquote>
+  <p>Lite kuriosa som många missar, propwalk påverkar även båten när den går framåt men då motverkar rodret den sidoriktade kraften vilket gör att den inte märks.</p>
+</blockquote>
+
+<h3 id="slutsats-igen">Slutsats (igen)</h3>
+
+<p>Vi har beställt en 3-bladig Flexofold med måtten 20x13 tum för en hisklig massa pengar. Vi lyckades tack och lov pruta en del så fakturan svider nog över lagom tills propellern är monterad.</p>
+
+<p><img src="flexofold.webp" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Sedan vi köpte Freya har vi haft ett litet problem mellan kölen och vårt roder nämligen vår propeller. Propellern i sig är det iofs inget fel på då den i princip är helt ny då den levererades med motorn men dimensioneringen av den är lite galen då den är lite för liten för motorn och båten.]]></summary></entry><entry><title type="html">Lite om våra batterier och dess inställningar</title><link href="https://yachting.earth/2025/06/10/batteri.html" rel="alternate" type="text/html" title="Lite om våra batterier och dess inställningar" /><published>2025-06-10T00:00:00+03:00</published><updated>2025-06-10T00:00:00+03:00</updated><id>https://yachting.earth/2025/06/10/batteri</id><content type="html" xml:base="https://yachting.earth/2025/06/10/batteri.html"><![CDATA[<p>På sidan om Freya (<a href="https://yachting.earth/freya/">länk</a>) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.</p>
 
 <p>Men först lite kort om vad vi faktiskt har ombord som har med batterier och laddning att göra.</p>
 
@@ -55,7 +189,9 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
   <li>Våra celler håller sig fortrande inom ett 0,005-0,001V</li>
   <li>Vi kan starta motorn utan några problem med lithium, den startar till och med fint med bara ett aktivt lithium batteri (även med växel i).</li>
   <li>Nej, vår generator har inte brunnit upp och kommer inte heller göra det inom några minuter bara för att vi laddar lithium med den utan DC/DC laddare eller Balmar regulator.</li>
-</ul>]]></content><author><name>Tony Johansson</name></author><category term="batteri" /><summary type="html"><![CDATA[På sidan om Freya (länk) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.]]></summary></entry><entry><title type="html">Lovište</title><link href="https://yachting.earth/2024/05/20/Loviste.html" rel="alternate" type="text/html" title="Lovište" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Loviste</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Loviste.html"><![CDATA[<p>Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.</p>
+</ul>]]></content><author><name>Tony Johansson</name></author><category term="batteri" /><summary type="html"><![CDATA[På sidan om Freya (länk) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.]]></summary></entry><entry><title type="html">Zavala</title><link href="https://yachting.earth/2024/05/20/Zavala.html" rel="alternate" type="text/html" title="Zavala" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Zavala</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Zavala.html"><![CDATA[<p>Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.</p>
+
+<p>Istället ankrade vi i en liten, med betoning på liten, på norra sidan av den lilla ön Otok Šćedro. För er som inte är bevandrade i den Greki. jag menar den Kroatiska geografin så är Otek Šćedro en liten ö som har ett par restauranger och några mysiga vikar. Det som är lite kul är att Otek Šćedro tydligen betyder “god dag” på kroatiska enligt Google men vad det faktiskt betyder är “Ön Šćedro”, det är uppenbart att det inte gåt att lita på någon. Nu spekar det inte någon vidare roll vad ön heter eller kallas då det inte finns någon som helst anledning att besöka den om man inte måste.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.]]></summary></entry><entry><title type="html">Lovište</title><link href="https://yachting.earth/2024/05/20/Loviste.html" rel="alternate" type="text/html" title="Lovište" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Loviste</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Loviste.html"><![CDATA[<p>Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.</p>
 
 <p>“Byn” i sig var inte mycket att hurra för, en liten och överprisad matbutik med ett sortiment som skulle få en cuban med ransoneringskort att bli besviken, vad vi däremot hittade längs strandpromenaden var en trevlig restaurang/pub med helt klart humana priser, det blev både en och två öl den eftermiddagen.</p>
 
@@ -67,9 +203,7 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
 
 <p>Jag nämnde att vi stannade lite längre då vi hade halvtråkigt väder på ingång. Vi fick både en hel massa vind och ganska rejält med regn en av nätterna. När det är natt och busväder brukar vi ha radarn igång för att se andra båtar vad som händer runt oss då det händer både lite titt som tätt att ankare släpper och båtar börjar dragga när det friskar i.  Bilden ovan är radarskärmen när det öste ner som bäst, i vanliga fall kan man se både land och båtar som vita “blobbar” men just den här natten gick det sådär. I snöröken på bilden döljer sig minst 5 båtar och en en hel del “vik” (bilden nedan) runt oss. Nätter som denna är det skönt att man gjort hemläxan och både ankrat långt från andra båtar med både snubber och massor av kätting ute.</p>
 
-<p><img src="loviste.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.]]></summary></entry><entry><title type="html">Zavala</title><link href="https://yachting.earth/2024/05/20/Zavala.html" rel="alternate" type="text/html" title="Zavala" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Zavala</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Zavala.html"><![CDATA[<p>Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.</p>
-
-<p>Istället ankrade vi i en liten, med betoning på liten, på norra sidan av den lilla ön Otok Šćedro. För er som inte är bevandrade i den Greki. jag menar den Kroatiska geografin så är Otek Šćedro en liten ö som har ett par restauranger och några mysiga vikar. Det som är lite kul är att Otek Šćedro tydligen betyder “god dag” på kroatiska enligt Google men vad det faktiskt betyder är “Ön Šćedro”, det är uppenbart att det inte gåt att lita på någon. Nu spekar det inte någon vidare roll vad ön heter eller kallas då det inte finns någon som helst anledning att besöka den om man inte måste.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.]]></summary></entry><entry><title type="html">Slano</title><link href="https://yachting.earth/2024/05/18/Slano.html" rel="alternate" type="text/html" title="Slano" /><published>2024-05-18T00:00:00+03:00</published><updated>2024-05-18T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/18/Slano</id><content type="html" xml:base="https://yachting.earth/2024/05/18/Slano.html"><![CDATA[<p>Efter ett par nätter på ankringen strax utanför Dubrovnik (vid byn/ön Kolocep som tydligen uttalas Kolotjep) kände vi att det var läge att ta oss vidare vi ska ju trots allt norrut till Venedig och då kan man ju inte sitta fast hur länge som helst på samma ställe, allra minst om det stället inte är något vidare att sitta fast på. Läs ganska trist ankringsvik med massa turbåtar som kör ut och in dagarna i ända.</p>
+<p><img src="loviste.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.]]></summary></entry><entry><title type="html">Slano</title><link href="https://yachting.earth/2024/05/18/Slano.html" rel="alternate" type="text/html" title="Slano" /><published>2024-05-18T00:00:00+03:00</published><updated>2024-05-18T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/18/Slano</id><content type="html" xml:base="https://yachting.earth/2024/05/18/Slano.html"><![CDATA[<p>Efter ett par nätter på ankringen strax utanför Dubrovnik (vid byn/ön Kolocep som tydligen uttalas Kolotjep) kände vi att det var läge att ta oss vidare vi ska ju trots allt norrut till Venedig och då kan man ju inte sitta fast hur länge som helst på samma ställe, allra minst om det stället inte är något vidare att sitta fast på. Läs ganska trist ankringsvik med massa turbåtar som kör ut och in dagarna i ända.</p>
 
 <p><img src="slano.png" alt="" /></p>
 
@@ -165,8 +299,4 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
 
 <p>Systemet ser numera ut enligt följande med några mindre justeringar som står på agendan att åtgärda när tillfället ges.</p>
 
-<p><img src="Yachting/blog/2024-04-27-gasledning/Gasol-system-mtext.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Det där med gas kan vara lite lurigt om man inte håller koll. Vi seglar som tidigare nämt en Malö 116 från 1984 (40 år gammal båt), vi har ett separat gasförråd i aktern med dränering i botten om flaskan skulle läcka och dragna kopparrör från lådan till spisen precis som många andra båtar. I det hela en helt vanlig standardlösning som hittas på drösvis med båtar, tills man tittar lite närmre på det hela, skrapar lite på ytan och tar sig en funderare på hur det verkligen ser ut.]]></summary></entry><entry><title type="html">Skutt till Siracusa</title><link href="https://yachting.earth/2024/04/25/Siracusa.html" rel="alternate" type="text/html" title="Skutt till Siracusa" /><published>2024-04-25T00:00:00+03:00</published><updated>2024-04-25T00:00:00+03:00</updated><id>https://yachting.earth/2024/04/25/Siracusa</id><content type="html" xml:base="https://yachting.earth/2024/04/25/Siracusa.html"><![CDATA[<p>Första natten på ankar gick betydligt bättre än de senaste dagarna, lugnt, stilla och hur skönt som helst. Skönt att något fungerade första dagen. Efter att väntat in vinden som kom fram mot lunch kunde vi sätta segel och ta oss mot Siracusa. Skön slör de första timmarna tills vinden mojnade lagom tills vi hade ett par timmar kvar, tur att motorn var nyservad och pigg. Som vanligt kom vinden tillbaks lagom tills vi skulle ankra. Det har aldrig hänt förut…</p>
-
-<p>Imorgon tar vi ner storseglet och försöker lista ut vad som gått galet på riktigt. Mer om det lite längre fram.</p>
-
-<p><img src="2024-04-25.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Första natten på ankar gick betydligt bättre än de senaste dagarna, lugnt, stilla och hur skönt som helst. Skönt att något fungerade första dagen. Efter att väntat in vinden som kom fram mot lunch kunde vi sätta segel och ta oss mot Siracusa. Skön slör de första timmarna tills vinden mojnade lagom tills vi hade ett par timmar kvar, tur att motorn var nyservad och pigg. Som vanligt kom vinden tillbaks lagom tills vi skulle ankra. Det har aldrig hänt förut…]]></summary></entry></feed>
+<p><img src="Yachting/blog/2024-04-27-gasledning/Gasol-system-mtext.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Det där med gas kan vara lite lurigt om man inte håller koll. Vi seglar som tidigare nämt en Malö 116 från 1984 (40 år gammal båt), vi har ett separat gasförråd i aktern med dränering i botten om flaskan skulle läcka och dragna kopparrör från lådan till spisen precis som många andra båtar. I det hela en helt vanlig standardlösning som hittas på drösvis med båtar, tills man tittar lite närmre på det hela, skrapar lite på ytan och tar sig en funderare på hur det verkligen ser ut.]]></summary></entry></feed>
