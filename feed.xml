@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2025-07-02T20:37:36+03:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">28000kr för vatten</title><link href="https://yachting.earth/segling/2025/07/02/vatten.html" rel="alternate" type="text/html" title="28000kr för vatten" /><published>2025-07-02T00:00:00+03:00</published><updated>2025-07-02T00:00:00+03:00</updated><id>https://yachting.earth/segling/2025/07/02/vatten</id><content type="html" xml:base="https://yachting.earth/segling/2025/07/02/vatten.html"><![CDATA[<p>På land tar man vatten många gånger för givet, det finns massor av det i kranen både varmt och kallt. På en båt är det lite annorlunda även om vi är omgivna av massor av vatten.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://yachting.earth/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yachting.earth/" rel="alternate" type="text/html" /><updated>2025-07-17T15:06:38+03:00</updated><id>https://yachting.earth/feed.xml</id><title type="html">Yachting.Earth</title><subtitle>!J.A.Y.S.</subtitle><author><name>Tony Johansson</name></author><entry><title type="html">Vårt byte till en Flexofold propeller</title><link href="https://yachting.earth/2025/07/17/propeller.html" rel="alternate" type="text/html" title="Vårt byte till en Flexofold propeller" /><published>2025-07-17T00:00:00+03:00</published><updated>2025-07-17T00:00:00+03:00</updated><id>https://yachting.earth/2025/07/17/propeller</id><content type="html" xml:base="https://yachting.earth/2025/07/17/propeller.html"><![CDATA[<p>För dig som läst texten om vårt <a href="https://yachting.earth/2025/06/11/proplem.html">propellerbekymmer</a> vet att vi haft lite svårt med att både att både få motorn till att gå som den ska och med att få fart på SY Freya när vi just går för motor.</p>
+
+<iframe title="Flexofold" width="640" height="360" src="https://youtu.be/BtXU-B9PKjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<p>Vi har nu monterat den nya propellern och testkört Freya i lungt vatten utan vind och ström med följande resultat:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Varvtal (rpm)</th>
+      <th>Fart (knop)</th>
+      <th>Laddtryck (bar)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>800 (idle)</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>1400</td>
+      <td>6</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td>1800</td>
+      <td>7.1-7.4</td>
+      <td>0.3</td>
+    </tr>
+    <tr>
+      <td>2200</td>
+      <td>7.5-7.7.</td>
+      <td>0.6</td>
+    </tr>
+    <tr>
+      <td>2706 (max)</td>
+      <td>8.5</td>
+      <td>0.7</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Resultaten i tabellen ovan är mer eller mindre 3 knop extra rakt över hela skalan (inte vid 800 rpm dock). Maxvarvet sjönk från 3100rpm till 2706 rpm vilket är inom Volvo Pentas rekommenderade spann för en D2-75. Vid marchfart på 1800 rpm gör Freya strax under skrovfart som är 7.44 knop, 1800 rpm ligger inom spannet 1800 till 2200rpm som är Volvos rekommenderade varvtal vid marchfart.</p>
+
+<h3 id="vad-förtäljer-då-den-här-historien">Vad förtäljer då den här historien?</h3>
+
+<ul>
+  <li>Först av allt så ljög varvet då de dokumenterade att maxfarten var 8.2 knop vid maxvarv. Det är en teknisk omöjlighet att uppnå med den tidigare propellern som till och med är något för liten för vår tidigare båt, en B31 med 9m vattenlinje och en pytteliten motor.</li>
+  <li>Varvet var inkompetenta då de monterade en medvetet felaktig propeller till motorn och båten.</li>
+  <li>Varvet skulle skadat motorn och turbo i längden om propellern de installerade inte bytts ut.</li>
+  <li>Sist men inte minst det är viktigt att förstå samtliga delar av sin båt och inte bara förlita sig på experter och annat löst folk. Man behöver inte bli en expert inom ämnet men att uppnå “I call bullshit”-nivån är det lägsta enligt min högst personliga åsikt.</li>
+  <li>Allra sist, vår nya Flexofold-propeller är klockren och helt rätt för båt och motor!</li>
+</ul>
+
+<p>För at du inte ska behöva begå samma misstag med din båt som Freyas tidigare ägare så undrar du förmodligen vilket varv det var som skötte inköp och installation.</p>
+
+<p><strong>Artemis Leros Boatyard LTD</strong><br />
+<strong>Partheni - Leros Island/GR 85400</strong></p>
+
+<p>Som referens så hade de mage att debitera 21800€ för motor och installationen 2019, så om du åker förbi idag kostar det säkert betydligt mer.</p>
+
+<p>Nu undrar du kanske hur vi skulle gjort om Freya skulle fått en ny motor idag istället? Om det inte lyst igenom i tidigare texter så är svaret busenkelt, vi skulle installerat den nya motorn själva. Storleken skulle vara runt eller strax över 50hk (ex en D2-55 om vi pratar Volvo Penta). Motorn skulle inte ha någon turbo och vi skulle absolut inte sågat ett hål stort nog för att få igenom en fotboll i botten för att klämma dit ett S-drev istället för propelleraxel.</p>
+
+<p>Motiveringen av att inte ha turbo är att motorn kan då gå på lägre varv utan att slagga igen och att det blir ett serviceproblem mindre ombord.</p>
+
+<p>Det är samma sak med propelleraxel, för att byta packning på en axel lossas den bara en bit för att trä av och på en ny packning. När det gäller S-drev behöver motorn lossas och flyttas (i vårt fall behöver den lyftas ur helt) för att packningen ska kunna bytas, galenskap på hög nivå än en gång som bara har syftet att eftermarknadsservicen ska tjäna pengar.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[För dig som läst texten om vårt propellerbekymmer vet att vi haft lite svårt med att både att både få motorn till att gå som den ska och med att få fart på SY Freya när vi just går för motor.]]></summary></entry><entry><title type="html">28000kr för vatten</title><link href="https://yachting.earth/segling/2025/07/02/vatten.html" rel="alternate" type="text/html" title="28000kr för vatten" /><published>2025-07-02T00:00:00+03:00</published><updated>2025-07-02T00:00:00+03:00</updated><id>https://yachting.earth/segling/2025/07/02/vatten</id><content type="html" xml:base="https://yachting.earth/segling/2025/07/02/vatten.html"><![CDATA[<p>På land tar man vatten många gånger för givet, det finns massor av det i kranen både varmt och kallt. På en båt är det lite annorlunda även om vi är omgivna av massor av vatten.</p>
 
 <h2 id="vattenförbrukning">Vattenförbrukning</h2>
 
@@ -75,9 +141,9 @@ Det “virtuella vattnet” är det som går åt för att producera mat, kläder
 
 <p>Dessa fyra faktorer kan, med lite matematik, användas för att beräkna en teoretisk maxfart och marschfart.</p>
 
-<p>När motorn köptes levererades Volvo D2-75 tillsammans med en 17x13-tums propeller (de har nu gått upp till 18x13 tum), vilket var det största fasta alternativet med tre blad. För att hoppa lite i förväg: Freya kräver, med den här motorn, en 20x13-tums propeller – alltså en som är cirka 7,5 cm större än originalet. Och då har jag inte ens räknat på skillnaden i bladyta mellan den medföljande propellern och den som faktiskt vore lämplig.</p>
+<p>När motorn köptes kunde Volvo D2-75 levereras tillsammans med en 17x13-tums propeller (de har nu gått upp till 18x13 tum), vilket var det största fasta alternativet med tre blad. För att hoppa lite i förväg: Freya kräver, med den här motorn, en 20x13-tums propeller – alltså en som är cirka 7,5 cm större än originalet. Och då har jag inte ens räknat på skillnaden i bladyta mellan den medföljande propellern och den som faktiskt vore lämplig. Nu skulle man ju både kunna tro och tycka att varvet som monterade motorn hade valt en 17x13-tums propeller för att göra så gott de kunde men så blev det inte, om de istället gick ut på lagret och letade upp en propeller eller om de faktiskt beställde en från Volvo (jag anar att det är det sistnämnda då propellern såg ny ut när vi köpte Freya) förtäljer inte historien, men något geni på tyckte att det var en bra idé att montera en 16x11-tums propeller istället.</p>
 
-<p>Hur som helst – om någon (t.ex. företaget som sålde motorn) hade bemödat sig att lägga åtminstone fem minuter på att räkna på båt och motor innan försäljningen, hade de snabbt upptäckt att det inte bara skulle bli dyrare för kunden att montera en Volvo Penta D2-75 med standardpropellern från Volvo – det skulle dessutom vara dåligt för både propellern och motorn.</p>
+<p>Hur som helst – om någon (t.ex. företaget som sålde motorn) hade bemödat sig att lägga åtminstone fem minuter på att räkna på båt och motor innan försäljningen, hade de snabbt upptäckt att det inte bara skulle bli dyrare för kunden att montera en Volvo Penta D2-75 med standardpropellern från Volvo – det skulle dessutom vara dåligt för både propellern och motorn, att de sedan monterade en ytterligare mindre propeller med helt felaktig stigning är bara korkat och väl över gränsen till idiotiskt på alla sätt och vis. Det finns ingen som helst motivering som håller.</p>
 
 <p>När en dieselmotor belastas för lätt på grund av det låga motståndet från en liten propeller, leder det till kalla avgaser och dåligt laddtryck (om det är en turbo). Båda dessa problem skapar bekymmer för ägaren både på kort och lång sikt, med risk för koksbildning i avgaskröken och en försämrad turbo som följd. Den lilla propellern “slirar” mer och förlorar kraft, samtidigt som den kaviteterar i onödan, vilket förkortar propellerns livslängd.</p>
 
@@ -202,7 +268,9 @@ Det “virtuella vattnet” är det som går åt för att producera mat, kläder
 
 <h3 id="slutsats-igen">Slutsats (igen)</h3>
 
-<p>Vi har nu beställt en 3-bladig Flexofold med måtten 20×13 tum – för en hiskelig mängd pengar. Som tur var lyckades vi pruta lite, så fakturan kommer nog sluta svida ungefär samtidigt som propellern är monterad. När det är gjort uppdaterar vi såklart med resultatet.</p>
+<p>Vi har nu beställt en 3-bladig Flexofold med måtten 20×13 tum från Capella Marin i Stockholm som allid varit hjälpsamma med att svara på alla frågor och funderingar jag haft genom åren även då jag inte varit kund hos dem – för en hiskelig mängd pengar. Som tur var lyckades vi pruta lite, så fakturan kommer nog sluta svida ungefär samtidigt som propellern är monterad. När det är gjort uppdaterar vi såklart med resultatet.</p>
+
+<p>För dig som är intresserad av resultatet av bytet så hittar du det här –&gt; <a href="https://yachting.earth/2025/07/17/propeller.html">Efter vårt byte från en 16x11-tums propeller till en Flexofold 20x13-tums propeller</a>.</p>
 
 <h3 id="sist-men-inte-minst">Sist men inte minst</h3>
 
@@ -271,7 +339,9 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
   <li>Våra celler håller sig fortrande inom ett 0,005-0,001V</li>
   <li>Vi kan starta motorn utan några problem med lithium, den startar till och med fint med bara ett aktivt lithium batteri (även med växel i).</li>
   <li>Nej, vår generator har inte brunnit upp och kommer inte heller göra det inom några minuter bara för att vi laddar lithium med den utan DC/DC laddare eller Balmar regulator.</li>
-</ul>]]></content><author><name>Tony Johansson</name></author><category term="batteri" /><summary type="html"><![CDATA[På sidan om Freya (länk) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.]]></summary></entry><entry><title type="html">Lovište</title><link href="https://yachting.earth/2024/05/20/Loviste.html" rel="alternate" type="text/html" title="Lovište" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Loviste</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Loviste.html"><![CDATA[<p>Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.</p>
+</ul>]]></content><author><name>Tony Johansson</name></author><category term="batteri" /><summary type="html"><![CDATA[På sidan om Freya (länk) står det några rader om elektroniken ombord och även ett par ord om våra batterier. Det här inlägget kommer dock att ta upp i lite mer detalj hur laddningen av våra batterier är optimerad för vår utrustning och användning.]]></summary></entry><entry><title type="html">Zavala</title><link href="https://yachting.earth/2024/05/20/Zavala.html" rel="alternate" type="text/html" title="Zavala" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Zavala</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Zavala.html"><![CDATA[<p>Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.</p>
+
+<p>Istället ankrade vi i en liten, med betoning på liten, på norra sidan av den lilla ön Otok Šćedro. För er som inte är bevandrade i den Greki. jag menar den Kroatiska geografin så är Otek Šćedro en liten ö som har ett par restauranger och några mysiga vikar. Det som är lite kul är att Otek Šćedro tydligen betyder “god dag” på kroatiska enligt Google men vad det faktiskt betyder är “Ön Šćedro”, det är uppenbart att det inte gåt att lita på någon. Nu spekar det inte någon vidare roll vad ön heter eller kallas då det inte finns någon som helst anledning att besöka den om man inte måste.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.]]></summary></entry><entry><title type="html">Lovište</title><link href="https://yachting.earth/2024/05/20/Loviste.html" rel="alternate" type="text/html" title="Lovište" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Loviste</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Loviste.html"><![CDATA[<p>Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.</p>
 
 <p>“Byn” i sig var inte mycket att hurra för, en liten och överprisad matbutik med ett sortiment som skulle få en cuban med ransoneringskort att bli besviken, vad vi däremot hittade längs strandpromenaden var en trevlig restaurang/pub med helt klart humana priser, det blev både en och två öl den eftermiddagen.</p>
 
@@ -283,9 +353,7 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
 
 <p>Jag nämnde att vi stannade lite längre då vi hade halvtråkigt väder på ingång. Vi fick både en hel massa vind och ganska rejält med regn en av nätterna. När det är natt och busväder brukar vi ha radarn igång för att se andra båtar vad som händer runt oss då det händer både lite titt som tätt att ankare släpper och båtar börjar dragga när det friskar i.  Bilden ovan är radarskärmen när det öste ner som bäst, i vanliga fall kan man se både land och båtar som vita “blobbar” men just den här natten gick det sådär. I snöröken på bilden döljer sig minst 5 båtar och en en hel del “vik” (bilden nedan) runt oss. Nätter som denna är det skönt att man gjort hemläxan och både ankrat långt från andra båtar med både snubber och massor av kätting ute.</p>
 
-<p><img src="loviste.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.]]></summary></entry><entry><title type="html">Zavala</title><link href="https://yachting.earth/2024/05/20/Zavala.html" rel="alternate" type="text/html" title="Zavala" /><published>2024-05-20T00:00:00+03:00</published><updated>2024-05-20T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/20/Zavala</id><content type="html" xml:base="https://yachting.earth/2024/05/20/Zavala.html"><![CDATA[<p>Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.</p>
-
-<p>Istället ankrade vi i en liten, med betoning på liten, på norra sidan av den lilla ön Otok Šćedro. För er som inte är bevandrade i den Greki. jag menar den Kroatiska geografin så är Otek Šćedro en liten ö som har ett par restauranger och några mysiga vikar. Det som är lite kul är att Otek Šćedro tydligen betyder “god dag” på kroatiska enligt Google men vad det faktiskt betyder är “Ön Šćedro”, det är uppenbart att det inte gåt att lita på någon. Nu spekar det inte någon vidare roll vad ön heter eller kallas då det inte finns någon som helst anledning att besöka den om man inte måste.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter ett par dagar i Lovište var det dags att fortsätta norrut mot Split men vädret ville något helt annat så efter några timmar för motor fick dagen avslutas med lite segling i mer eller mindre obefintlig vind så det där med att ta oss till Split fick helt enkelt vänta ytterligare en dag.]]></summary></entry><entry><title type="html">Slano</title><link href="https://yachting.earth/2024/05/18/Slano.html" rel="alternate" type="text/html" title="Slano" /><published>2024-05-18T00:00:00+03:00</published><updated>2024-05-18T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/18/Slano</id><content type="html" xml:base="https://yachting.earth/2024/05/18/Slano.html"><![CDATA[<p>Efter ett par nätter på ankringen strax utanför Dubrovnik (vid byn/ön Kolocep som tydligen uttalas Kolotjep) kände vi att det var läge att ta oss vidare vi ska ju trots allt norrut till Venedig och då kan man ju inte sitta fast hur länge som helst på samma ställe, allra minst om det stället inte är något vidare att sitta fast på. Läs ganska trist ankringsvik med massa turbåtar som kör ut och in dagarna i ända.</p>
+<p><img src="loviste.png" alt="" /></p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter vårt pitstop i Žuljana på vår väg från Slano hittade vi en skyddad vik precis vid byn Lovište, då det både var en säker och trevlig ankring valde vi att stanna några extra dagar då det var lite halvtråkigt väder på ingång samtidigt som vi hade en del projekt att ta hand om.]]></summary></entry><entry><title type="html">Slano</title><link href="https://yachting.earth/2024/05/18/Slano.html" rel="alternate" type="text/html" title="Slano" /><published>2024-05-18T00:00:00+03:00</published><updated>2024-05-18T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/18/Slano</id><content type="html" xml:base="https://yachting.earth/2024/05/18/Slano.html"><![CDATA[<p>Efter ett par nätter på ankringen strax utanför Dubrovnik (vid byn/ön Kolocep som tydligen uttalas Kolotjep) kände vi att det var läge att ta oss vidare vi ska ju trots allt norrut till Venedig och då kan man ju inte sitta fast hur länge som helst på samma ställe, allra minst om det stället inte är något vidare att sitta fast på. Läs ganska trist ankringsvik med massa turbåtar som kör ut och in dagarna i ända.</p>
 
 <p><img src="slano.png" alt="" /></p>
 
@@ -331,23 +399,4 @@ Float fortsätter hålla 13,8V tills spänningen sjunker 0,5V till 13,3V vilket 
 
 <p><img src="moon-kaj.jpg" alt="" /></p>
 
-<p>Det där med flyktingbåtar som jag nämnde ovan är tråkigt nog en ganska vanlig syn i den här delen av Medelhavet. Det är stulna båtar, vanligtvis “plastic fantasic” båtar av typen Bavaria och andra liknande massproduktionsbåtar runt 45fot. De fylls till bredden med folk (en 46fots/14m Bavaria fick vi veta hade haft närmare 45 personer ombord) som vill fly norrut från Afrika, båtarna seglas eller motoreras sedan till Grekland eller Italien där skepparen sedan överger båten en bit från land och låter folket ombord ta sig iland bäst de kan. Ibland ropar de först ett Mayday för att myndigheterna i landet de är på väg mot ska komma ut och rädda folket ombord, myndigheterna är såklart inte vidare imponerade av att hjälpa dem så i regel fiskas människorna upp av andra länders SAR (Search And Rescue) båtar i området. Båtarna lämpas sedan av vid stadskajer lite varstans där de sedan blir liggande tills de skrotas. Självklart plundras båtarna på allt av värde antingen av andra båtar eller den lokala skeppshandeln (som självklart aldrig skulle erkänna det men som samtidigt säljer extremt billiga prylar av märket Bavaria…).</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter att ha spenderat några dagar i Crotone för att vänta ut “rätt” väder beslutade vi oss för att segla norrut då det var det minst dåliga av våra alternativ. Antingen ligga kvar och riskera att fastna då en lite för frisk Sirocco var på väg eller ta sikte norrut mot Santa Maria Di Lueca med hjälp av den för tillfället NW vinden.]]></summary></entry><entry><title type="html">Norrut mot Brindisi</title><link href="https://yachting.earth/2024/05/07/Crotone-istallet-for-Brindisi.html" rel="alternate" type="text/html" title="Norrut mot Brindisi" /><published>2024-05-07T00:00:00+03:00</published><updated>2024-05-07T00:00:00+03:00</updated><id>https://yachting.earth/2024/05/07/Crotone-istallet-for-Brindisi</id><content type="html" xml:base="https://yachting.earth/2024/05/07/Crotone-istallet-for-Brindisi.html"><![CDATA[<p>Efter mer eller mindre en vecka i Siracusa kom det efterlängtade väderfönstret vi väntat på, nästan 4 dagar med lagom av vind från syd. Vår plan var att åka med vädret hela vägen till Brindisi strax norr om Italiens “klack”.</p>
-
-<p>Självklart blev det inte så då vinden valde att kasta in handsken efter ett och ett halvt dygn i höjd med Crotone där vi valde att stanna. Nu var det inte hela världen då varken Freya eller matroserna riktigt har fått ordning på sina rutiner och sjöben.</p>
-
-<p><img src="crotone.png" alt="" /></p>
-
-<p>Förutom att vara en helt vanlig Italiensk stad har Crotone ett ganska unikt varv, i alla fall för att vara här i Italien, där man som båtägare får arbeta på sin egen båt när den väl ligger på land. Antingen är det så att det finns en regel som varvet i Crotone inte bryr sig om eller så har mer eller mindre samtliga varv (alla som vi känner till) i Italien gått bildat någon form av kartell där de endast tillåter sin egna personal att arbeta på båtar. Just idag spelar det inte oss någon större roll men vi passade såklart på att smita förbi varvet och kika in då vi förr eller senare behöver lyfta Freya.</p>
-
-<p>Vår plan var att ankra strax söder om marinan och krypa så nära land vi bara vågar för att komma undan den nord/nordostliga vinden och vågorna som ska komma de närmsta dagarna tillsammans med både regn och åska. När vi närmade oss låg det såklart redan en båt på “vår” utsedda plats och i mörkret är det alltid lite extra spännande att bedöma avstånd.</p>
-
-<p>Det är bland annat vid sådana här tillfällen som radarn kommer till sin rätt. På bilden nedan ser man tydligt vågbrytaren strax söder om oss och den gröna blippen som är båten som “stal” vår plats strax utanför oss. Med hjälp av radarn var det en barnlek att smyga in och lägga oss 150 m från stranden (170 om vi ska vara petiga) med lagom svängrum åt alla håll.</p>
-
-<p>Ekolodet skvallrade om att det var 2,5 meter djupt där vi ankrade och strax över 2,1 meter där det var som grundast om vi skulle vända aktern in mot stranden, hela 25 cm tillgodo! :)</p>
-
-<p><img src="crotone-radar.png" alt="" /></p>
-
-<p>Sjökortet över samma plats
-<img src="crotone-map.jpeg" alt="" /></p>
-
-<p>När vi utsövda och på glatt humör dagen efter tittade närmre på det kommande vädret tog vi en runda in till marinan och prutade oss till en billig plats då vi inte alls var sugna på att ligga och rulla på ankringen de kommande dagarna då dyningar och vågor skulle smyga runt udden oavsett hur långt in mot stranden vi skulle ta oss. 30€ per natt var en billig peng för att få sova gott ett par nätter.</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter mer eller mindre en vecka i Siracusa kom det efterlängtade väderfönstret vi väntat på, nästan 4 dagar med lagom av vind från syd. Vår plan var att åka med vädret hela vägen till Brindisi strax norr om Italiens “klack”.]]></summary></entry></feed>
+<p>Det där med flyktingbåtar som jag nämnde ovan är tråkigt nog en ganska vanlig syn i den här delen av Medelhavet. Det är stulna båtar, vanligtvis “plastic fantasic” båtar av typen Bavaria och andra liknande massproduktionsbåtar runt 45fot. De fylls till bredden med folk (en 46fots/14m Bavaria fick vi veta hade haft närmare 45 personer ombord) som vill fly norrut från Afrika, båtarna seglas eller motoreras sedan till Grekland eller Italien där skepparen sedan överger båten en bit från land och låter folket ombord ta sig iland bäst de kan. Ibland ropar de först ett Mayday för att myndigheterna i landet de är på väg mot ska komma ut och rädda folket ombord, myndigheterna är såklart inte vidare imponerade av att hjälpa dem så i regel fiskas människorna upp av andra länders SAR (Search And Rescue) båtar i området. Båtarna lämpas sedan av vid stadskajer lite varstans där de sedan blir liggande tills de skrotas. Självklart plundras båtarna på allt av värde antingen av andra båtar eller den lokala skeppshandeln (som självklart aldrig skulle erkänna det men som samtidigt säljer extremt billiga prylar av märket Bavaria…).</p>]]></content><author><name>Tony Johansson</name></author><category term="segling" /><summary type="html"><![CDATA[Efter att ha spenderat några dagar i Crotone för att vänta ut “rätt” väder beslutade vi oss för att segla norrut då det var det minst dåliga av våra alternativ. Antingen ligga kvar och riskera att fastna då en lite för frisk Sirocco var på väg eller ta sikte norrut mot Santa Maria Di Lueca med hjälp av den för tillfället NW vinden.]]></summary></entry></feed>
